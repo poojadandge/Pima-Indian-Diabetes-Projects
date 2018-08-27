@@ -4,11 +4,3 @@ The project was aimed to build a model to predict if a person is diabetic or not
 #### --- Dataset
 This data set has been retrieved from Github.
 The original source of the dataset is from the National Institute of Diabetes and Digestive and Kidney Diseases.
-
-
-
-## 2> Portuguese Banking Institution - Data Preprocessing and Data Exploration
-
-The aim of this project is to load a data file into memory, clean, process, and analyse it and gives practical experience with the typical first steps of the data science process.
-The data is related to direct marketing campaigns of a Portuguese banking institution.
-The marketing campaigns were based on phone calls. Often, more than one contact to the same client was required, in order to access if the product (bank term deposit) would be (`yes') or not (`no') subscribed. 
